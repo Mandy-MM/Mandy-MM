@@ -72,10 +72,6 @@
 
 **University of Bristol** – BSc Computer Science  
 `Sep 2024 – May 2027`
-
-- Key modules: Data Structures, Algorithms, Concurrent Systems, Distributed Computing, Digital System Design  
-- Hands‑on labs: FPGA (Verilog/Testbench), full‑stack development, concurrent simulation systems
-
 ---
 
 ## 💼 工作经历 | Work Experience
