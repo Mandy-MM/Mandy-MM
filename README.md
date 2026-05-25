@@ -83,7 +83,7 @@
 
 ## 💼 工作经历 | Work Experience
 
-### 豫园股份（复星旗下） – RPA开发实习生 (IT方向) |  Yuyuan Inc. (Fosun Group) - RPA Development Intern (IT)
+### 豫园股份（复星旗下） – RPA开发实习生 (IT方向) |  Yuyuan Inc - RPA Development Intern(IT）
 `2025.06 – 2025.08`
 
 
@@ -104,7 +104,7 @@
 
 ## 📁 项目精选 | Featured Projects
 
-### 1. 肠道健康监测移动应用 (全栈 – Ferryx公司合作项目) |  Gut Health Monitoring App (Client Project for Ferryx)
+### 1. 肠道健康监测移动应用 (全栈 – Ferryx公司合作项目) |  Gut Health Monitoring App
 `2025.10 – 2026.04`  |  Spring Boot · Flutter · PostgreSQL · FCM · Docker · AWS EC2
 
 - 替代邮件问卷系统，为12周产品试验开发配套 App，提升数据准确性与参与度  
@@ -136,7 +136,7 @@
 
 ---
 
-### 3. Go 并行与分布式 Game of Life 系统  |  Parallel & Distributed Game of Life System
+### 3. Go 并行与分布式 Game of Life 系统  |  Game of Life System
 `2025.10 – 2025.11`  |  Go · Goroutines · Channels · RPC · 并发控制
 
 - 实现并行 Game of Life：Goroutines 按行划分任务，Channels 汇总结果  
