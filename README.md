@@ -9,7 +9,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Mandy-MM/Mandy-MM/blob/main/README.md" target="_blank" style="border-bottom: none; text-decoration: none;">
   <img src="https://komarev.com/ghpvc/?username=Mandy-MM&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </a>
   <a href="mailto:po24675@bristol.ac.uk">
