@@ -68,7 +68,7 @@
 
 - 主修课程：数据结构、算法、并发系统、分布式计算、数字系统设计
 
-**University of Bristol** | Bachelor of Science in Computer Science  
+**University of Bristol**  |  Bachelor of Science in Computer Science  
 `2024.09 - 2027.05`
 - Key modules: Data Structures, Data & Algorithms, Distributed Computing, Security
 ---
