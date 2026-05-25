@@ -26,9 +26,8 @@
 - 🎓 布里斯托大学计算机科学本科在读（2024 – 2027）  
 - 💻 热爱后端开发、全栈应用与自动化流程（RPA）  
 - 🚀 具备 Spring Boot / Flutter / Go / Docker / AWS 实际项目经验  
-- 🔧 喜欢用技术解决重复性工作，把人工 2–3 小时的任务压缩到 15 分钟  
-- 🌱 目前正在深入分布式系统与并发编程  
-- 📫 联系我：**po24675@bristol.ac.uk**
+- 🌱 目前正在深入分布式系统与并发编程和AI agent  
+- 📫 联系我：**po24675@bristol.ac.uk** 或 **mandy.liuy@outlook.com** 
 
 
 
@@ -36,8 +35,8 @@
 - 💻 Passionate about backend development, full‑stack apps, and RPA automation  
 - 🚀 Hands‑on experience with Spring Boot, Flutter, Go, Docker, AWS EC2  
 - 🔧 Love eliminating repetitive work – reduced a 2–3 hour manual task to 15 minutes  
-- 🌱 Currently deepening knowledge of distributed systems & concurrency  
-- 📫 Reach me at **po24675@bristol.ac.uk**
+- 🌱 Currently deepening knowledge of distributed systems & concurrency and AI agent development  
+- 📫 Reach me at **po24675@bristol.ac.uk** or **mandy.liuy@outlook.com** 
 
 ---
 
