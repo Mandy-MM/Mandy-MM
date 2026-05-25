@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## 👩‍💻 关于我 | About Me
 
 ****  
@@ -85,8 +83,8 @@
 - 构建端到端自动化管线（自动登录 → 多维筛选 → PDF/Excel导出 → 云盘归档）  
 - 引入图像识别 + OCR 处理UI异常，编写重试机制，大幅提升鲁棒性  
 - **成果**：每月 2–3 小时人工操作缩短至 15 分钟全自动运行，覆盖上百份财务报表
-
-
+  
+---
 - Designed a batch financial‑report scraping & archiving system using **Yingdao RPA** (connected to Yonyou NC6.5 ERP)  
 - Parameterized task engine supports dynamic filtering for 30+ orgs and 5 report types  
 - Built end‑to‑end pipeline: auto‑login → multi‑dimension filter → export (PDF/Excel) → cloud archive  
@@ -106,6 +104,8 @@
 - 通知：Firebase Cloud Messaging 实现提醒订阅与点击跳转  
 - 部署：Docker 容器化 + docker‑compose，运行于 AWS EC2 进行联调演示
 
+---
+
 - Replaced email‑based questionnaire for a 12‑week product trial; improved participation & data accuracy  
 - Backend: Spring Data JPA + PostgreSQL JSONB (surveys/emotions), BCrypt password hashing  
 - Frontend: Flutter (step‑by‑step symptom log, emotion journal, calendar, recipe library)  
@@ -121,6 +121,8 @@
 - 客户端‑服务器架构，Socket 通信 + 多线程保证实时状态同步  
 - JavaFX 实现地图可视化与移动路径展示  
 - MVC 架构组织游戏主逻辑（回合控制、移动规则判定）
+  
+---
 
 - Multiplayer online version of board game *Scotland Yard* (cops vs. Mr. X)  
 - Client‑server model with Socket + multithreading for real‑time state sync  
@@ -138,6 +140,7 @@
 - 扩展分布式架构：net/rpc 实现 broker 调度 + worker 计算 + 故障回退  
 - 性能分析：通过 benchmark 评估线程扩展性及 RPC 通信瓶颈，提出批处理优化
 
+---
 - Parallel Game of Life: rows partitioned among Goroutines, results aggregated via Channels  
 - Async I/O + event‑driven: snapshot saving, periodic stats, interactive control  
 - RWMutex for safe concurrent reads/writes (stats & simulation state)  
