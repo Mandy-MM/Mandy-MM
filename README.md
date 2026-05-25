@@ -28,6 +28,7 @@
 - 📫 联系我：**po24675@bristol.ac.uk**
 
 
+
 - 🎓 BSc Computer Science at **University of Bristol** (2024 – 2027)  
 - 💻 Passionate about backend development, full‑stack apps, and RPA automation  
 - 🚀 Hands‑on experience with Spring Boot, Flutter, Go, Docker, AWS EC2  
@@ -147,16 +148,6 @@
 - RWMutex for safe concurrent reads/writes (stats & simulation state)  
 - Distributed extension: net/rpc – broker schedules workers, fallback on failure  
 - Benchmarked scalability & RPC bottlenecks, suggested batching & partial transfer optimizations
-
----
-
-## 📊 GitHub 统计 | GitHub Stats
-
-<!-- 这些卡片会自动统计你的公开仓库数据，替换 username 若不同则修改 -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mandy-MM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy-MM&layout=compact&theme=radical&langs_count=8"/>
-</p>
 
 ---
 
