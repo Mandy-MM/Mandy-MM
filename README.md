@@ -161,8 +161,3 @@
 > *If you're interested in my projects or have collaboration ideas, feel free to reach out via email.*
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mandy-MM/Mandy-MM/output/snake.svg" alt="snake animation" />
-  <!-- 上面的贪吃蛇动画需要配置 GitHub Action，不是必须的，你可以删除或保留占位 -->
-</p>
