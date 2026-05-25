@@ -4,11 +4,6 @@
   👋 欢迎访问 Mandy 的 GitHub 主页 | Welcome to Mandy's GitHub Profile
 -->
 
-<h1 align="center">
-  <a href="https://github.com/Mandy-MM/Mandy-MM/blob/main/README.md" target="_blank" style="border-bottom: none; text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mandy+Liu;%E5%88%98%E7%BC%98;CS+Student+%40+Uni+Bristol;Full-Stack+%7C+RPA+%7C+Go" alt="Typing SVG" />
-  </a>
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mandy-MM&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
