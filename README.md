@@ -5,7 +5,9 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mandy+Liu;%E5%88%98%E7%BC%98;CS+Student+%40+Uni+Bristol;Full-Stack+%7C+RPA+%7C+Go" alt="Typing SVG" />
+  <a href="https://github.com/Mandy-MM/Mandy-MM/blob/main/README.md" target="_blank" style="border-bottom: none; text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mandy+Liu;%E5%88%98%E7%BC%98;CS+Student+%40+Uni+Bristol;Full-Stack+%7C+RPA+%7C+Go" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
@@ -81,7 +83,7 @@
 
 ## 💼 工作经历 | Work Experience
 
-### 豫园股份（复星旗下） – RPA开发实习生 (IT方向)  
+### 豫园股份（复星旗下） – RPA开发实习生 (IT方向) |  Yuyuan Inc. (Fosun Group) - RPA Development Intern (IT)
 `2025.06 – 2025.08`
 
 
@@ -102,7 +104,7 @@
 
 ## 📁 项目精选 | Featured Projects
 
-### 1. 肠道健康监测移动应用 (全栈 – Ferryx公司合作项目)  
+### 1. 肠道健康监测移动应用 (全栈 – Ferryx公司合作项目) |  Gut Health Monitoring App (Client Project for Ferryx)
 `2025.10 – 2026.04`  |  Spring Boot · Flutter · PostgreSQL · FCM · Docker · AWS EC2
 
 - 替代邮件问卷系统，为12周产品试验开发配套 App，提升数据准确性与参与度  
@@ -119,7 +121,7 @@
 
 ---
 
-### 2. 苏格兰场桌游对抗平台  
+### 2. 苏格兰场桌游对抗平台 | Scotland Yard
 `2024.03 – 2024.04`  |  Java · JavaFX · Socket · 多线程 · MVC
 
 - 模拟桌游《Scotland Yard》的多人联机版本（警察 vs 怪盗）  
@@ -134,7 +136,7 @@
 
 ---
 
-### 3. Go 并行与分布式 Game of Life 系统  
+### 3. Go 并行与分布式 Game of Life 系统  |  Parallel & Distributed Game of Life System
 `2025.10 – 2025.11`  |  Go · Goroutines · Channels · RPC · 并发控制
 
 - 实现并行 Game of Life：Goroutines 按行划分任务，Channels 汇总结果  
