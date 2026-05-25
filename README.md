@@ -34,7 +34,6 @@
 - 🎓 BSc Computer Science at **University of Bristol** (2024 – 2027)  
 - 💻 Passionate about backend development, full‑stack apps, and RPA automation  
 - 🚀 Hands‑on experience with Spring Boot, Flutter, Go, Docker, AWS EC2  
-- 🔧 Love eliminating repetitive work – reduced a 2–3 hour manual task to 15 minutes  
 - 🌱 Currently deepening knowledge of distributed systems & concurrency and AI agent development  
 - 📫 Reach me at **po24675@bristol.ac.uk** or **mandy.liuy@outlook.com** 
 
