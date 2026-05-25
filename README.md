@@ -22,7 +22,7 @@
 
 ## 👩‍💻 关于我 | About Me
 
-
+****  
 - 🎓 布里斯托大学计算机科学本科在读（2024 – 2027）  
 - 💻 热爱后端开发、全栈应用与自动化流程（RPA）  
 - 🚀 具备 Spring Boot / Flutter / Go / Docker / AWS 实际项目经验  
@@ -30,7 +30,7 @@
 - 📫 联系我：**po24675@bristol.ac.uk** 或 **mandy.liuy@outlook.com** 
 
 
-
+****  
 - 🎓 BSc Computer Science at **University of Bristol** (2024 – 2027)  
 - 💻 Passionate about backend development, full‑stack apps, and RPA automation  
 - 🚀 Hands‑on experience with Spring Boot, Flutter, Go, Docker, AWS EC2  
